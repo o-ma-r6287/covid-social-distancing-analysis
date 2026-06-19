@@ -1,0 +1,33 @@
+Characteristic,Value
+Total Sample Size,1061
+Age (Mean ± SD),38.3 ± 11.8
+Gender,
+   Male,618 (58.2%)
+   Female,437 (41.2%)
+   Other,6 (0.6%)
+Education,
+   College degree,577 (54.4%)
+   Some college or less,316 (29.8%)
+   Advanced degree,168 (15.8%)
+Employment,
+   Working,868 (81.8%)
+   Not working,193 (18.2%)
+Income,
+   Less than 50k,498 (46.9%)
+   50k to 99k,415 (39.1%)
+   100k+,148 (13.9%)
+Political Ideology,
+   Liberal,536 (50.5%)
+   Conservative,353 (33.3%)
+   Moderate,172 (16.2%)
+Party Identification,
+   Democrat,406 (38.3%)
+   Other or independent,395 (37.2%)
+   Republican,260 (24.5%)
+Marital Status,
+   Not married,548 (51.6%)
+   Married,513 (48.4%)
+Self-Isolation Score (Mean ± SD),8.98 ± 2.63
+Mask Score (Mean ± SD),8.85 ± 2.81
+Willing to Self-Isolate (6+),934 (88.0%)
+Willing to Wear Mask (6+),920 (86.7%)

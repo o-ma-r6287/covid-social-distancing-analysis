@@ -1,0 +1,15 @@
+Predictor,Slope [95% CI],p-value
+Intercept,"8.467 [7.405, 9.529]",0.0
+Gender (Male),"-0.366 [-0.691, -0.041]",0.0272
+Gender (Other),"-1.532 [-3.642, 0.578]",0.1546
+Education (College degree),"-0.198 [-0.651, 0.255]",0.3917
+Education (Some college or less),"-0.233 [-0.749, 0.283]",0.3763
+Employment (Working),"-0.381 [-0.803, 0.040]",0.0763
+Income (50k to 99k),"-0.164 [-0.655, 0.327]",0.5132
+Income (Less than 50k),"0.009 [-0.495, 0.513]",0.9731
+Ideology (Liberal),"0.807 [0.341, 1.274]",0.0007
+Ideology (Moderate),"0.468 [-0.080, 1.015]",0.0939
+Party (Other or independent),"-0.175 [-0.591, 0.241]",0.4088
+Party (Republican),"0.128 [-0.412, 0.667]",0.6426
+Marital Status (Not married),"-0.041 [-0.387, 0.306]",0.8177
+Age,"0.022 [0.009, 0.036]",0.0015

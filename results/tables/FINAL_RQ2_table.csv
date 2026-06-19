@@ -1,0 +1,10 @@
+Predictor,Odds Ratio [95% CI],p-value
+Intercept,,0.0
+Gender (Male),,0.0347
+Education (College degree),,0.024
+Education (Some college or less),,0.0367
+Ideology (Liberal),,0.0001
+Ideology (Moderate),,0.0849
+Party (Other or independent),,0.9008
+Party (Republican),,0.0649
+Age,,0.5479
